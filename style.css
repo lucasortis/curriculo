@@ -33,6 +33,7 @@ h1 {
 .apresentacao {
 	width: 100%;
 	float: left;
+	margin-right: 10px;
 }
 .apresentacao img {
 	max-width: 250px;
