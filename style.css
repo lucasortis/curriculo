@@ -39,7 +39,6 @@ h1 {
 	max-width: 250px;
 	width: 100%;
 	margin-top: 10px;
-	margin-left: 10px;
 }
 .experiencia {
 	width: 100%;
@@ -53,11 +52,15 @@ h1 {
 .historico {
 	width: 100%;
 	float: left;
+	padding-right: 0px;
+	margin-right: 0px;
 }
 .historico img {
 	max-width: 400px;
 	width: 100%;
 	margin-top: 10px;
+	padding-right: 0px;
+	margin-right: 0px;
 }
 .informacao {
 	width: 100%;
