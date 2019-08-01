@@ -152,6 +152,9 @@ h1 {
 	.conteudo2 li {
 		list-style-type: none;
 	}
+	.experiencia {
+		text-align: right;
+	}
 	.experiencia img {
 		width: 100%;
 		max-width: 350px;
