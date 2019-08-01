@@ -152,6 +152,8 @@ h1 {
 	.conteudo2 li {
 		list-style-type: none;
 	}
+}
+@media only screen and (max-width: 500px){
 	.experiencia {
 		text-align: left;
 	}
