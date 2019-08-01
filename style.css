@@ -153,7 +153,7 @@ h1 {
 		list-style-type: none;
 	}
 }
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 360px){
 	.experiencia {
 		text-align: left;
 	}
