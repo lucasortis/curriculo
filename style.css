@@ -159,3 +159,9 @@ h1 {
 		max-width: 330px;
 	}
 }
+@media only screen and (max-width: 320){
+	.experiencia img {
+		width: 100%;
+		max-width: 300px;
+	}
+}
