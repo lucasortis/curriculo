@@ -152,8 +152,7 @@ h1 {
 	.conteudo2 li {
 		list-style-type: none;
 	}
-	.experiencia {
-		padding: 0px;
-		margin: 0px;
+	.experiencia img {
+		width: 350px;
 	}
 }
