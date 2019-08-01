@@ -163,5 +163,6 @@ h1 {
 	.experiencia img {
 		width: 100%;
 		max-width: 100px;
+		text-align: left;
 	}
 }
