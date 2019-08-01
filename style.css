@@ -152,4 +152,7 @@ h1 {
 	.conteudo2 li {
 		list-style-type: none;
 	}
+	.experiencia {
+		padding-right: 0px;
+	}
 }
