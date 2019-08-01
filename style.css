@@ -154,9 +154,6 @@ h1 {
 	}
 }
 @media only screen and (max-width: 400px){
-	.experiencia {
-		text-align: left;
-	}
 	.experiencia img {
 		width: 100%;
 		max-width: 300px;
