@@ -27,8 +27,6 @@ h1 {
 .informacoes{
 	font-size: 18px;
 	margin-top: 20px;
-	margin-left: 5px;
-	padding-left: 5px;
 }
 .apresentacao {
 	width: 100%;
@@ -43,7 +41,6 @@ h1 {
 .experiencia {
 	width: 100%;
 	float: left;
-	margin-left: 10px;
 }
 .experiencia img {
 	max-width: 400px;
@@ -53,15 +50,11 @@ h1 {
 .historico {
 	width: 100%;
 	float: left;
-	padding-right: 0px;
-	margin-right: 0px;
 }
 .historico img {
 	max-width: 400px;
 	width: 100%;
 	margin-top: 10px;
-	padding-right: 0px;
-	margin-right: 0px;
 }
 .informacao {
 	width: 100%;
