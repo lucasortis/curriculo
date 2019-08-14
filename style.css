@@ -144,6 +144,7 @@ h1 {
 	}
 	.conteudo2 li {
 		list-style-type: none;
+		margin-right: 32px;
 	}
 }
 @media only screen and (max-width: 415px){
